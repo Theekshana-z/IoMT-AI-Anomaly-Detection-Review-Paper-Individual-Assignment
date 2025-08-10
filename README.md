@@ -37,5 +37,3 @@ The `Review Paper.pdf` provides an in-depth analysis of:
 The `Presentation IT22083678.pptx` offers a concise summary of the review paper, highlighting the key points and findings.
 
 ---
-
-Feel free to customize this template further to better fit your project's specifics.
